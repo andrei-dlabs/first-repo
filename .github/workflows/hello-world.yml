@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
 
       - name: Test env variables
-        run: echo $TEST_ENV
+        run: echo $API_KEY
